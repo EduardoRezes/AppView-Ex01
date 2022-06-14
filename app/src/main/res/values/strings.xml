@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppView</string>
+    <string name="nome">Nome Completo</string>
+    <string name="email">E-mail</string>
+    <string name="periodo">Periodo</string>
+    <string name="manha">Manha</string>
+    <string name="tarde">Tarde</string>
+    <string name="nunca">Nunca</string>
+    <string name="noite">Noite</string>
+    <string name="whats">Whats-App</string>
+    <string name="pref">Preferencia</string>
+    <string name="tvCabo">Tv a Cabo</string>
+    <string name="internet">Internet</string>
+    <string name="telefone">Telefone</string>
+    <string name="cancel">Cancel</string>
+    <string name="enviar">Enviar</string>
+    <string name="sexo">Sexo</string>
+    <string name="man">Masculino</string>
+    <string name="woman">Feminino</string>
+    <string name="notInfo">Prefiro não informar</string>
+    <string name="preferencia">Preferencia</string>
+    <string name="ex1">Exercicio 01</string>
+    <string name="notification">Ativar Notificações</string>
+</resources>
